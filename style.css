@@ -1,0 +1,10 @@
+BODY{
+  background-color: powderblue
+}
+
+form{
+  background-color: mintcream;
+  border: 1rem solid lightsteelblue;
+  padding: .5in;
+  margin: .25in;
+}
