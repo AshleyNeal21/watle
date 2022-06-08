@@ -9,3 +9,12 @@ form{
   margin: .25in;
 }
 
+.word input{
+  height: 80px;
+  width: 80px;
+  display: line-block;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 3em;
+  onmousedown="prevent()";
+}
