@@ -25,7 +25,7 @@ document.addEventListener("contextmenu", e => {
 
 function wordle() {
 
-  let wordSet = ["panic", "dupes", "crate", "great","soare","avoid","knobs","venom","glory","grate","admit","brisk","soggy","usurp","scald","scorn","leave","twine","sting",];
+  let wordSet = ["panic", "dupes", "crate", "great","soare","avoid","knobs","venom","glory","grate","admit","brisk","soggy","usurp","scald","scorn","leave","twine","sting", "audio"];
 
   let correct = [[], [], [], [], [], []];
   let yellow = [[], [], [], [], [], []];
